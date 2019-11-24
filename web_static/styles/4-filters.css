@@ -16,6 +16,9 @@ section.filters button{
 	border-radius: 4px;
 	margin-right: 30px;
 	opacity: 1;
+	display: flex;
+	justify: end;
+	justify-content: flex-end;
 }
 
 section.filters button:hover{
