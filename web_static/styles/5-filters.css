@@ -1,7 +1,7 @@
 .filters{
 	background-color: white;
-	height: 100%;
-	width: 25%;
+	height: 70px;
+	width: 100%;
 	border: 1px solid #DDDDDD;
 	border-radius: 4px;
 	display: flex;
@@ -24,6 +24,11 @@ section.filters button{
 
 section.filters button:hover{
 	opacity: 0.9;
+}
+
+section.filters .locations .amenities{
+	height: 100%;
+	width: 25%;
 }
 
 section.filters .locations{
