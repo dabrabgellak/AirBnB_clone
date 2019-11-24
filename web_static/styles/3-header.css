@@ -2,7 +2,12 @@ header{
 	background-color: #FFF;
 	height: 70px;
 	width: 100%;
-	border-bottom-style: 1px, #CCCCCC;
-	background: url("logo.png");
-	background-position: 20px, 50%
+	border-bottom: 1px, solid #CCCCCC;
+}
+
+.logo{
+	background: url("../images/logo.png") no-repeat center;
+	width: 20px;
+	height: 20px;
+	padding-left: 20px;
 }
