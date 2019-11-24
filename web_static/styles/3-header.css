@@ -1,8 +1,8 @@
 header{
-	background-color:white;
+	background-color: #FFF;
 	height: 70px;
 	width: 100%;
 	border-bottom-style: 1px, #CCCCCC;
-	background-image: url("logo.png");
+	background: url("logo.png");
 	background-position: 20px, 50%
 }
