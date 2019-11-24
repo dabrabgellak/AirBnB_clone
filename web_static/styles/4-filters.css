@@ -17,7 +17,7 @@ section.filters button{
 	margin-right: 30px;
 	opacity: 1;
 	display: flex;
-	justify-items: end;
+	align-items: flex-end;
 	justify-content: flex-end;
 }
 
