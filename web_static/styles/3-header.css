@@ -2,8 +2,8 @@ header{
 	background-color: white;
 	height: 70px;
 	width: 100%;
-	border-bottom: 1px, solid; 
-	border-bottom-color: #CCCCCC;
+	border-bottom-color: #CCCCCC solid;
+	border-bottom: 1px;
 }
 
 .logo{
