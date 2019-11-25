@@ -29,18 +29,20 @@ section.filters button:hover{
 .locations .amenities{
 	height: 100%;
 	width: 25%;
-	padding-left: 10%;
+	padding-left: 25%;
 }
 
-section.filters .locations{
+.locations{
 	border-right: #DDDDDD 1px;
 }
 
 .locations .amenities h3{	
 	font-weight: 600;
+	margin: 12px 0 5px 0;
 }
 
 .locations .amenities h4{
+	margin 0 0 0 0;
 	font-weight: 400;
 	font-size: 14px;
 }
