@@ -5,7 +5,7 @@
 	border: 1px solid #DDDDDD;
 	border-radius: 4px;
 	display: flex;
-	justify-content: flex-end;
+	justify-content: flex-start;
 	align-content: flex-end;
 	align-items: center;
 }
@@ -24,9 +24,11 @@ section.filters button{
 
 section.filters button:hover{
 	opacity: 0.9;
+	margin-left: auto;
 }
 
-section.filters .locations .amenities{
+.locations .amenities{
+	align-items: center;
 	height: 100%;
 	width: 25%;
 }
@@ -35,11 +37,11 @@ section.filters .locations{
 	border-right: #DDDDDD 1px;
 }
 
-h3{	
+.locations .amenities h3{	
 	font-weight: 600;
 }
 
-h4{
+.locations .amenities h4{
 	font-weight: 400;
 	font-size: 14px;
 }
