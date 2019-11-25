@@ -36,12 +36,12 @@ section.filters button:hover{
 	border-right: solid #DDDDDD 1px;
 }
 
-.locations .amenities h3{	
+.locations h3, .amenities h3{	
 	font-weight: 600;
 	margin: 12px 0 5px 0;
 }
 
-.locations .amenities h4{
+.locations h4, .amenities h4{
 	margin 0 0 0 0;
 	font-weight: 400;
 	font-size: 14px;
