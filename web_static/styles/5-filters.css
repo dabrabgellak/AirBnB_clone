@@ -5,7 +5,7 @@
 	border: 1px solid #DDDDDD;
 	border-radius: 4px;
 	display: flex;
-	justify-content: flex-start;
+	justify-content: flex-end;
 	align-content: flex-end;
 	align-items: center;
 }
@@ -28,6 +28,8 @@ section.filters button:hover{
 }
 
 .locations .amenities{
+	justify-content: flex-start;;
+	display: flex;
 	align-items: center;
 	height: 100%;
 	width: 25%;
