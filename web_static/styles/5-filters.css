@@ -19,11 +19,11 @@ section.filters button{
 	border-radius: 4px;
 	margin-right: 30px;
 	opacity: 1;
+	margin-left: auto;
 }
 
 section.filters button:hover{
 	opacity: 0.9;
-	margin-left: auto;
 }
 
 .locations .amenities{
