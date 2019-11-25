@@ -28,9 +28,9 @@ section.filters button:hover{
 }
 
 .locations .amenities{
-	justify-content: flex-start;;
 	display: flex;
-	align-items: center;
+	justify-content: flex-start;
+	align-items: flex-start;
 	height: 100%;
 	width: 25%;
 }
