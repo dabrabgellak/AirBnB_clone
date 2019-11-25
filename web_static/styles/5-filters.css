@@ -33,7 +33,7 @@ section.filters button:hover{
 }
 
 .locations{
-	border-right: #DDDDDD 1px;
+	border-right: solid #DDDDDD 1px;
 }
 
 .locations .amenities h3{	
