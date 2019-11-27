@@ -34,7 +34,7 @@ section.filters button:hover{
 .locations .amenities{
 	height: 100%;
 	width: 25%;
-	padding-left: 80%;
+	padding-left: 80px;
 }
 
 .locations h3, .amenities h3{	
@@ -43,7 +43,7 @@ section.filters button:hover{
 }
 
 .locations h4, .amenities h4{
-	margin 0 0 0 10%;
+	margin 0 0 0 0;
 	font-weight: 400;
 	font-size: 14px;
 }
